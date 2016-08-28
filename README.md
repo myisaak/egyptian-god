@@ -1,6 +1,8 @@
 # Egyptian-God
 Control mice to create pyramids... Play it here http://myisaak.itch.io/egyptian-god #LDJAM Compo 36
 
+[![Foo](https://i.gyazo.com/6e202a50eb904eb02178852218531f9d.gif)](Screenshot 1)
+
 # Description
 Play as the almighty powerful Egyptian god and control dozens of mice at your fingertips. Your goal: Build a pyramid before the sun sets... Have fun
 
